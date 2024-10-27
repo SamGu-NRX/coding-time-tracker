@@ -17,7 +17,6 @@
 - [Scheduling](#scheduling)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
